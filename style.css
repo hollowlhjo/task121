@@ -1,0 +1,31 @@
+.nav_div{
+    background-color: rgb(25, 135, 84);
+    border-bottom: 2px;
+    position: sticky;
+    top: 0px;
+    padding: 0;
+    margin-bottom: 30px;
+}
+.btn_modern{
+    background-color: aliceblue;
+    border: 1px;
+    border-radius: 10px;
+}
+.lang{
+    margin-bottom: 30px;
+}
+.accordion-button:hover{
+    background-color: rgb(25, 135, 84);
+    border: 2px;
+    border-radius: 45px;
+}
+.btn-light{
+    opacity: .3;
+}
+main{
+    display: flex;
+    justify-content: center;
+}
+#carouselExampleIndicators{
+    width: 50%;
+}
